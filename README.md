@@ -10,4 +10,4 @@ Only thing to notice here is `netlify.toml` file
   Cross-Origin-Embedder-Policy = "require-corp"
   ```
   
-  On whatever platform you are deploying the site make sure these 2 headers are present.
+  On whatever hosting platform you are deploying the site make sure these 2 custom headers are present.
