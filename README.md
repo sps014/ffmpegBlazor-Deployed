@@ -1,6 +1,6 @@
 # ffmpegBlazor-Deployed
  
-This is FFmpeg wasm deployed on Netlify(Free Static web site hosting platform).
+This is FFmpeg wasm deployed on Netlify(Free Static web site hosting platform), other files are normal Blazorwasm release output files.
 Only thing to notice here is `netlify.toml` file
 ```toml
 [[headers]]
