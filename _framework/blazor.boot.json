@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "FFmpegBlazor.dll": "sha256-Xdg1pZlUoxTwZCDi5\/t+mCj+T2fZSYGR7LIRaFkDlbI=",
+      "FFmpegBlazor.dll": "sha256-Dz5hlI92PX93NW1yeL4RTUsaqqfpUV+QU\/WrUM4kxNA=",
       "Microsoft.AspNetCore.Components.dll": "sha256-I\/myT0GzHsZNN+2ZhHl3\/gfOMUYkp7KhpxELwtjKPXY=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-GfdkA5ueednSH\/yNBPZnGNL6u88vRl9tHh+p9jL7t8o=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-plelzzO2k66D\/XMWLkSykIUPWb6GqakKdMYQ1iBzyIs=",
